@@ -526,7 +526,7 @@ Arrays match.
 ~~~
 
 ## Result:
-~~~
+
 i. Therefore we are successful in executing cuda program to Host-based array summation vs GPU-based vector summation and Explore the differences.
 ii. Therefopre we successfylly in Making a new kernel to let each thread handle two elements and Compare the results with other execution confi gurations.
-~~~
+
